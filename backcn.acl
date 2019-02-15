@@ -28,6 +28,9 @@
 
 [proxy_list]
 # 代理列表
+# CN域名直连
+^.*\.cn$
+^.*\.com$
 
 (^|\.)3g\.music\.qq\.com$
 (^|\.)a\.play\.api\.3g\.youku\.com$
