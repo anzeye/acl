@@ -70,6 +70,7 @@
 (^|\.)ec2-54-175-2-194\.computer-1\.amazonaws\.com$
 (^|\.)ec2-54-210-54-246\.computer-1\.amazonaws\.com$
 (^|\.)raw\.githubusercontent\.com$
+(^|\.)ip138\.com$
 
 #GFWList IP start
 85.17.73.31
