@@ -230,7 +230,6 @@
 (?:^|\.)mobi\.kuwo\.cn$
 (?:^|\.)mobile\.api\.hunantv\.com$
 (?:^|\.)mobile\.api\.mgtv\.com$
-(?:^|\.)mobilefeedback\.kugou\.com$
 (?:^|\.)module\.youku\.com$
 (?:^|\.)music\.163\.com$
 (?:^|\.)music\.httpdns\.c\.163\.com$
@@ -291,7 +290,6 @@
 (?:^|\.)web-play\.pplive\.cn$
 (?:^|\.)www\.bilibili\.com$
 (?:^|\.)www\.iyyin\.com$
-(?:^|\.)www\.kugou\.com$
 (?:^|\.)www\.kuwo\.cn$
 (?:^|\.)www\.tudou\.com$
 (?:^|\.)www\.xiami\.com$
@@ -299,4 +297,4 @@
 (?:^|\.)xl\.api\.3g\.youku\.com$
 (?:^|\.)y\.qq\.com$
 (?:^|\.)z\.g3proxy\.lecloud\.com$
-(?:^|\.)online\.kugou\.com$
+(?:^|\.)kugou\.com$
