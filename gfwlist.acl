@@ -1,7 +1,7 @@
 #
 # chinatunnel whitelist
-# updated on 2018-08-26
-#
+# updated on 2012-06-12
+# grpc.biliapi.net
 
 [bypass_all]
 
@@ -24,18 +24,15 @@
 119.28.39.249
 119.29.29.29
 119.29.51.249
-121.51.162.11
 122.5.0.146
 123.151.176.114
 123.151.176.115
 123.151.176.116
-# 14.17.41.197
 14.18.245.250
 14.23.85.251
 140.205.160.76
 140.205.60.10
 140.207.135.43
-140.207.54.59
 163.177.83.171
 163.177.90.59
 182.254.34.151
@@ -56,7 +53,10 @@
 203.205.147.205
 203.205.147.229
 203.205.151.193
-203.205.211.78
+203.205.253.240
+203.205.239.95
+203.205.179.220
+203.205.179.210
 220.181.168.50
 220.249.243.70
 58.246.220.141
@@ -66,92 +66,288 @@
 60.28.13.15
 60.28.13.22
 61.151.234.31
-# cctv
-203.119.218.22
-203.119.218.111
-203.119.218.243
-203.119.217.112
-203.119.217.113
-203.119.216.219
-203.119.216.255
-203.119.128.124
-203.119.205.0
-203.119.205.113
-203.119.205.127
-115.182.217.91
-115.182.217.92
-115.182.9.79
-115.182.9.78
-115.182.34.196
-115.182.34.197
-220.181.73.146
-220.181.168.50
-220.108.39.238
-202.108.39.239
-## iqiyiDNS
-# 121.12.108.75
-# 121.12.108.76
-# 121.12.108.77
-# 121.12.108.78
 # iqyi itv.ptqy.gitv.tv
 211.151.158.191
 115.182.238.56
 36.110.220.56
 123.125.111.124
-115.182.238.56
-211.151.158.191
 103.44.58.213
 103.44.59.73
 103.44.59.85
 103.44.59.86
+116.211.202.142
+106.38.212.21
+#yunshiting
+#112.53.42.187
+#101.33.47.68
+#101.33.47.206
 # QQ14000
 203.205.211.78
 121.51.162.11
+121.51.131.70
 220.194.95.164
 58.60.9.104
-# sohu tcp
-# 183.240.112.11
-# 175.100.207.231
-# 175.100.207.233
-# 175.100.207.232
-# 211.159.191.44
-# 104.254.66.40
-# 14.215.173.7
-# 120.197.3.91
-# 14.18.240.77
-# 183.6.206.215
-# 183.6.206.210
-# 183.6.209.116
-# 123.126.104.67
-# cctv5\.v\.dnion\.com$
-# cctv5\.v\.live\.qingcdn\.com$
-# cctv5\.v\.wscdns\.com$
-# cctv5\.v\.myalicdn\.com$
-# cctv5\.v\.kcdnvip\.com$
-# cctv5\.vb\.(.*?)\.liveplay\.myqcloud\.com$
-# sdapprecv\.app\.cntvwb\.cn$
-# vdapprecv\.app\.cntvwb\.cn$
-# cws-cctv\.conviva\.com$
-# agn\.aty\.snmsohu\.aisee\.tv$
-qc\.hd\.snmsohu\.aisee\.tv$
-playauth\.cooperation\.aisee\.tv$
-aiseet\.aa\.aisee\.tv$
-data\.vod\.itc\.cn$
-vipbjcp\.vod\.tv\.itc\.cn$
+157.255.173.146
+157.255.192.102
+58.251.139.218
+140.207.54.59
+120.241.186.13
+112.60.0.153
+# QQ443
+120.204.10.247
+# ups.cp31.0tt.cibntv.net
+198.11.132.53
+198.11.132.178
+106.11.45.4
+106.11.45.38
+106.11.47.3
+106.11.47.19
+106.11.47.20
+106.11.47.27
+106.11.172.4
+106.11.61.104
+106.11.53.16
+106.11.186.1
+106.11.186.2
+106.11.186.3
+106.11.186.4
+106.11.186.5
+106.11.186.25
+106.11.186.38
+106.11.186.39
+106.11.186.54
+106.11.186.53
+106.11.208.27
+106.11.208.136
+106.11.208.145
+106.11.209.2
+106.11.209.3
+106.11.209.6
+106.11.209.7
+106.11.209.8
+106.11.209.10
+106.11.211.206
+106.11.211.107
+106.11.250.133
+106.11.250.134
+106.11.250.142
+106.11.250.203
+47.91.203.232
+47.91.203.234
+47.91.203.235
+205.204.101.47
+205.204.101.96
+140.205.61.47
+# pl.cp31.ott.cibntv.net
+106.11.223.70
+# migu ipcheck
+210.14.153.124
+210.14.153.108
+175.25.50.212
+43.247.88.67
+43.247.88.94
+103.230.236.49
+103.230.236.22
+# xigua
+118.26.252.209
+58.63.252.23
+#togic
+58.60.9.113
+112.60.0.205
+#YKmovie
+47.246.99.245
+47.246.99.255
+#443
+47.246.1.102
+47.246.1.106
+47.246.1.108
+47.246.1.111
+47.246.1.113
+47.246.1.122
+47.246.1.181
+47.246.1.216
+47.246.1.218
+47.246.1.254
+163.181.42.252
+163.181.42.207
+163.181.42.230
+163.181.36.174
+163.181.36.224
+163.181.36.225
+163.181.36.226
+163.181.36.227
+163.181.36.228
+163.181.36.229
+163.181.36.230
+163.181.36.231
+#80
+106.11.35.119
+106.11.35.97
+106.11.43.121
+106.11.43.175
+106.11.43.218
+#443
+106.11.43.71
+106.11.43.83
+106.11.43.107
+106.11.43.108
+106.11.43.130
+106.11.43.206
+106.11.43.225
+106.11.43.246
+106.11.43.247
+106.11.43.215
+106.11.43.182
+106.11.40.41
+106.11.40.51
+106.11.40.57
+106.11.248.29
+#80
+111.225.159.25
+121.9.246.111
+#443
+119.147.111.228
+119.147.111.230
+121.9.246.11
+121.9.246.106
+121.9.246.107
+#443
+59.82.31.248
+59.82.31.250
+59.82.31.189
+59.82.31.118
+59.82.29.136
+59.82.29.200
+59.82.60.9
+183.240.214.231
+#80
+203.119.128.3
+203.119.128.4
+203.119.205.0
+#443
+203.119.205.113
+203.119.205.114
+#80
+203.119.128.123
+203.119.205.127
+203.119.215.108
+203.119.215.109
+203.119.215.163
+203.119.215.161
+203.119.215.209
+203.119.216.50
+203.119.216.51
+203.119.218.243
+203.119.144.42
+#443
+203.119.128.124
+140.205.35.20
+140.205.36.25
+#connect.play.aiseet.atianqi.com:443
+175.27.22.156
+175.27.8.143
+175.27.8.62
+129.226.107.233
+129.226.107.253
+42.81.179.227
+111.30.185.242
+111.30.185.58
+14.17.27.70
+14.17.27.35
+183.194.204.26
+183.194.204.32
+120.241.200.199
+60.29.239.210
+60.29.242.185
+60.29.239.250
+221.238.41.41
+101.89.42.118
+101.89.47.62
+116.128.169.55
+a\.video\.qq\.com$
+soup\.play\.aiseet\.atianqi\.com$
+cwebapi-start\.play\.aiseet\.atianqi\.com$
+h5vv\.play\.aiseet\.atianqi\.com$
+apiv4-iyes\.youku\.com$
+hlslive\.video\.iqiyi\.com$
+sports\.iqiyi\.com$
+data\.ssports\.com$
+security\.ssports\.com$
+api\.xsj\.wasu\.tv$
+api1-lf\.xsj\.wasu\.tv$
+api1-hl\.xsj\.wasu\.tv$
+#api\.jinsapi\.com$
+api\.poll\.video\.qq\.com$
+sf6-dycdn-tos\.pstatp\.com$
+sf3-dycdn-tos\.pstatp\.com$
+sf1-dycdn-tos\.pstatp\.com$
+api3-normal-c-lf\.ixigua\.com$
+api3-normal-c-lq\.ixigua\.com$
+tools\.mobile\.kugou\.com$
+config\.mobile\.kugou\.com$
+gateway\.kugou\.com$
+#ip2\.kglink\.cn$
+serveraddr\.service\.kugou\.com$
+app\.u\.nf\.migu\.cn$
+app\.c\.nf\.migu\.cn$
+app\.pd\.nf\.migu\.cn$
+api\.tv\.sohu\.com$
+#ximalaya
+locationhera\.ximalaya\.com$
+adse\.ximalaya\.com$
+# CCTV Live
+cctv5\.v\.dnion\.com$
+cctv5\.v\.live\.qingcdn\.com$
+cctv5\.v\.wscdns\.com$
+cctv5\.v\.myalicdn\.com$
+cctv5\.v\.kcdnvip\.com$
+cctv5ksc\.v\.kcdnvip\.com$
+cctv5bsc\.v\.live\.baishancdnx\.cn$
+cctv5txyc\.liveplay\.myqcloud\.com$
+cctvtxyc\.liveplay\.myqcloud\.com$
+cctvbsc\.v\.live\.baishancdnx\.cn$
+vdn\.live\.cntv\.cn$
+cctv5aliw\.v\.myalicdn\.com$
+cctv5alic\.v\.myalicdn\.com$
+cctv5akhwc-cntv\.akamaized\.net$
+cctv5akhwh5ca-cntv\.akamaized\.net$
+cctv5cnchwc\.v\.cdn20\.com$
+cctv5cnchwh5ca\.v\.cdn20\.com$
+ctv5ksh5ca\.v\.kcpvip\.com$
+cctvksh5c\.v\.kcdnvip\.com$
+cctvbsh5c\.v\.live\.baishancdnx\.cn$
+cctv5cnch5ca\.v\.wscdns\.com$
+cctv5cncc\.v\.wscdns\.com$
+cws-cctv\.conviva\.com$
+mdrecv\.app\.cntvwb\.cn$
+sdapprecv\.app\.cntvwb\.cn$
+vdapprecv\.app\.cntvwb\.cn$
+# end
+ip\.ptqy\.gitv\.tv$
+ip\.geo\.iqiyi\.com$
+data6\.video\.iqiyi\.com$
+play\.api\.cp61\.ott\.cibntv\.net$
+tv\.cp81\.ott\.cibntv\.net$
+pl\.cp31\.ott\.cibntv\.net$
+pl2\.cp12\.wasu\.tv$
+acs\.cp12\.ott\.cibntv\.net$
+cibn\.api\.3g\.cp31\.ott\.cibntv\.net$
+api\.k\.sohu\.com$
+api\.k\.snmsohu\.aisee\.tv$
+h5\.ott\.tv\.snmsohu\.aisee\.tv$
 api\.ott\.tv\.snmsohu\.aisee\.tv$
-baiducdncmn\.inter\.ptqy\.gitv\.tv$
-wangsucdnct\.inter\.ptqy\.gitv\.tv$
 stats\.music\.xiaomi\.com$
 puma-api\.ptqy\.gitv\.tv$
 policy\.video\.ptqy\.gitv\.tv$
 data2\.itv\.ptqy\.gitv\.tv$
-mobile\.api\.mgtv\.com$
 mobile2\.api\.mgtv\.com$
 play\.api\.pptv\.com$
 dataflow\.biliapi\.com$
+grpc\.biliapi\.net$
 manga\.bilibili\.com$
 interface\.biliapi\.com$
 c\.y\.qq\.com$
+open-secret-api-v2\.vcinema\.cn$
 t\.doras\.api\.vcinema\.cn$
 p\.doras\.api\.vcinema\.cn$
 sdk\.ptqy\.gitv\.tv$
@@ -160,8 +356,6 @@ lbs\.map\.qq\.com$
 api\.snm0516\.aisee\.tv$
 app\.snm0516\.aisee\.tv$
 bangumi\.snm0516\.aisee\.tv$
-data\.snm0516\.aisee\.tv$
-heyi-acs\.cp31\.ott\.cibntv\.net$
 ping\.huatuo\.qq\.com$
 yun-hl\.3g\.qq\.com$
 msd\.moguv\.com$
@@ -171,12 +365,13 @@ lcinter\.aiseewhaley\.aisee\.tv$
 qc\.hd\.sohu\.com\.cn$
 s1\.api\.tv\.itc\.cn$
 log\.api\.max\.mgtv\.com$
-mobile\.api\.mgtv\.com$
 a\.play\.api\.3g\.youku\.com$
 acc\.music\.qq\.com$
+acc\.qq\.com$
 antiserver\.kuwo\.cn$
 api\.3g\.tudou\.com$
 api\.3g\.youku\.com$
+vip\.aiseewhaley\.aisee\.tv$
 api\.aiseewhaley\.aisee\.tv$
 api2\.aiseewhaley\.aisee\.tv$
 api3\.aiseewhaley\.aisee\.tv$
@@ -237,6 +432,7 @@ huatuo\.weiyun\.com$
 huatuocode\.weiyun\.com$
 i\.play\.api\.3g\.youku\.com$
 i\.y\.qq\.com$
+doh\.iqiyi\.com$
 iface\.iqiyi\.com$
 iface2\.iqiyi\.com$
 ifacelog\.iqiyi\.com$
@@ -267,6 +463,8 @@ livep\.l\.aiseet\.atianqi\.com$
 livep\.l\.cp81\.ott\.cibntv\.net$
 livep\.l\.ott\.video\.qq\.com$
 lives\.l\.aiseet\.atianqi\.com$
+lives\.l\.ott\.video\.qq\.com$
+lives\.l\.qq\.com$
 m\.api\.hunantv\.com$
 meta\.video\.ptqy\.gitv\.tv$
 mobi\.kuwo\.cn$
@@ -279,7 +477,6 @@ music\.httpdns\.c\.163\.com$
 music\.sina\.com\.cn$
 nmobi\.kuwo\.cn$
 ott\.liveapi\.mgtv\.com$
-ott\.v1\.data\.mgtv\.com$
 ott1\.liveapi\.mgtv\.com$
 ott2\.liveapi\.mgtv\.com$
 ottlive\.api\.mgtv\.com$
@@ -341,4 +538,4 @@ www\.yinyuetai\.com$
 xl\.api\.3g\.youku\.com$
 y\.qq\.com$
 z\.g3proxy\.lecloud\.com$
-online\.kugou\.com$
+ip\.video\.51togic\.com$
